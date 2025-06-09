@@ -9,3 +9,6 @@ D = Mover a Direita
 Objetivo:
 Proteger o meio ambiente de eletrônicos velhos
 
+Você pode ver esse jogo funcionando aqui:
+
+https://editor.p5js.org/santana.lopes.joao/full/flrhcSGWv
