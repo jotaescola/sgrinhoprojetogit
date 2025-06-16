@@ -5,7 +5,7 @@ Este projeto é um jogo feito em JavaScript onde o objetivo principal é coletar
 *(Jogo originalmente feito por miguelrodriguessarto, e modificado por jotaescola)*
 
 **Controles:**
-**A** = *Mover a Esquerda*
+**A** = *Mover a Esquerda*  
 **D** = *Mover a Direita*
 
 Objetivo:
